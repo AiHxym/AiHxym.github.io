@@ -2,7 +2,7 @@
 ###
  # @Author: Yumeng Xue
  # @Date: 2022-05-17 16:44:49
- # @LastEditTime: 2023-07-23 22:12:27
+ # @LastEditTime: 2023-07-23 22:15:47
  # @LastEditors: Yumeng Xue
  # @Description: 
  # @FilePath: /my-homepage/deploy.sh
@@ -12,13 +12,13 @@
 set -e
 
 # 生成静态文件
-npm run docs:build
+yarn build
 
 # 复制CNAME文件
-cp CNAME docs/.vuepress/dist/
+cp CNAME dist/
 
 # 进入生成的文件夹
-cd docs/.vuepress/dist
+cd dist
 
 git init
 git add -A
