@@ -22,7 +22,7 @@ email: yumeng[dot]xue[at]uni-konstanz[dot]de
 
 ## About Me
 
-Yumeng Xue is a 2nd-year Ph.D. student in Visual Computing Group, Department of Computer and Information Science, University of Konstanz. His advisor is Prof. Dr. Oliver Deussen. He received his B.S. degree from Shandong University in 2020, and M.Sc. degree from University of Konstanz in 2022. His research interests fall in the field of Visualization, Human-Computer Interaction and Computer Graphics.
+Yumeng Xue is a 2nd-year Ph.D. student in [Visual Computing Group](https://www.cgmi.uni-konstanz.de/), Department of Computer and Information Science, University of Konstanz. His supervisor is [Prof. Dr. Oliver Deussen](https://www.cgmi.uni-konstanz.de/en/persons/prof-dr-oliver-deussen/). He received his B.S. degree from [Taishan College](https://www.tsxt.sdu.edu.cn/), Shandong University in 2020, and M.Sc. degree from University of Konstanz in 2022. His research interests fall in the field of Visualization, Human-Computer Interaction and Computer Graphics.
 
 ## News
 - [July 2023] One paper was accepted by IEEE VIS 2023.
