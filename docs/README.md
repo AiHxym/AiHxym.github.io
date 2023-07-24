@@ -36,19 +36,20 @@ Yumeng Xue is a 2nd-year Ph.D. student in [Visual Computing Group](https://www.c
 
 - *Reducing Ambiguity in Line-based Density Plots by Image-space Colorization*<br>
 **Yumeng Xue**, Patrick Paetzold, Rebecca Kehlbeck, Bin Chen, Kin Chung Kwan, Yunhai Wang, and Oliver Deussen<br>
-*IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to appear.*
+**IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023)**, to appear.
 
 - *RectEuler: Visualizing Intersecting Sets using Rectangles*<br>
 Patrick Paetzold, Rebecca Kehlbeck, Hendrik Strobelt, **Yumeng Xue**, Sabine Storandt, and Oliver Deussen<br>
-*Computer Graphics Forum (Proc. EuroVis 2023), 2023.* [[Paper]](https://kops.uni-konstanz.de/server/api/core/bitstreams/29ae5fc6-ebd7-4f09-8c7f-6d75b19ada4a/content)
+**Computer Graphics Forum (Proc. EuroVis 2023)**, 2023. [[Paper]](https://kops.uni-konstanz.de/server/api/core/bitstreams/29ae5fc6-ebd7-4f09-8c7f-6d75b19ada4a/content)
 
 - *Implicit Multidimensional Projection of Local Subspaces*<br>
 Rongzheng Bian, **Yumeng Xue**, Liang Zhou, Jian Zhang, Baoquan Chen, Daniel Weiskopf, and Yunhai Wang<br>
-*IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis 2020), 2021.* [[Paper]](https://arxiv.org/pdf/2009.03259.pdf)
+**IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis 2020)**, 2021. [[Paper]](https://arxiv.org/pdf/2009.03259.pdf)
 
 - *CA2: Cyber Attacks Analytics*<br>
-Luyu Cheng, Bairui Su, **Yumeng Xue**, Xiaoyu Liu, and Yunhai Wang<br>
-*VAST Challenge Workshop, VIS 2020, 2020.* [[Paper]](/papers/CA2__Cyber_Attacks_Analytics.pdf) [[Demo]](https://vast-2020.vercel.app/#/)
+Luyu Cheng*, Bairui Su*, **Yumeng Xue***, Xiaoyu Liu, and Yunhai Wang<br>
+**VAST Challenge Workshop, VIS 2020**, 2020. [[Paper]](/papers/CA2__Cyber_Attacks_Analytics.pdf) [[Solution]](https://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%201/entries/Shandong%20University/) [[Demo]](https://vast-2020.vercel.app/#/)<br>
+*: equal contributation
 
 ## Awards
 
