@@ -70,8 +70,8 @@ Luyu Cheng*, Bairui Su*, **Yumeng Xue***, Xiaoyu Liu, and Yunhai Wang<br>
 ## Education
 
 - __University of Konstanz__, Ph.D. in Computer Science, April 2022 - Now
-- __University of Konstanz__, M.Sc. in Computer Science, April 2021 - March 2022
-- __Shandong University__, B.S. in Computer Science, September 2016 - June 2020
+- __University of Konstanz__, M.Sc. in Computer Science with distinction, April 2021 - March 2022
+- __Shandong University__, B.Eng. in Computer Science, September 2016 - June 2020
 
 ## Experiences
 
