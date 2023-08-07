@@ -6,11 +6,11 @@ module.exports = {
   dest: "./dist",
 
   themeConfig: {
-    search: false,
+    search: true,
     nav: [
       { text: "Home", link: "/" },
       //{ text: "About", link: "/about/" },
-      //{ text: "Projects", link: "/projects/" },
+      { text: "Projects", link: "/projects/" },
       { text: "GitHub", link: "https://github.com/AiHxym" }
     ],
     sidebar: {
@@ -29,15 +29,17 @@ module.exports = {
 };
 
 function genSidebarConfig(title) {
-  return [
-    {
-      title,
-      collapsable: false,
-      children: [
-        'covid-thinking',
-        'Paris',
-      ]
-    }
-  ]
+  if (title === 'blog') {
+    return [
+      {
+        title,
+        collapsable: false,
+        children: [
+          'covid-thinking',
+          'Paris',
+        ]
+      }
+    ]
+  }
 }
 

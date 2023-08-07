@@ -6,7 +6,7 @@ pageClass: projects-page
 
 Here are some works of mine :books:
 
-## Projects
+<!-- ## Projects
 
 <ProjectCard image="/projects/1.png">
 
@@ -18,17 +18,17 @@ Here are some works of mine :books:
   
   [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
 
-</ProjectCard>
+</ProjectCard> -->
 
 ## Publications
 
 <ProjectCard>
 
-  **Harry Potter and the Deathly Hallows**
+  **Reducing Ambiguities in Line-based Density Plots by Image-space Colorization**
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  Line-based density plots are used to reduce visual clutter in line charts with a multitude of individual lines. However, these traditional density plots are often perceived ambiguously, which obstructs the user's identification of underlying trends in complex datasets. Thus, we propose a novel image space coloring method for line-based density plots that enhances their interpretability. Our method employs color not only to visually communicate data density but also to highlight similar regions in the plot, allowing users to identify and distinguish trends easily. We achieve this by performing hierarchical clustering based on the lines passing through each region and mapping the identified clusters to the hue circle using circular MDS. Additionally, we propose a heuristic approach to assign each line to the most probable cluster, enabling users to analyze density and individual lines. We motivate our method by conducting a small-scale user study, demonstrating the effectiveness of our method using synthetic and real-world datasets, and providing an interactive online tool for generating colored line-based density plots.
 
-  [[Link](https://www.google.com)]
+  [[Link](/projects/pubs/reducing)]
 
 </ProjectCard>
 
