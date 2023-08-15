@@ -48,7 +48,7 @@ Rongzheng Bian, **Yumeng Xue**, Liang Zhou, Jian Zhang, Baoquan Chen, Daniel Wei
 
 - *CA2: Cyber Attacks Analytics*<br>
 Luyu Cheng*, Bairui Su*, **Yumeng Xue***, Xiaoyu Liu, and Yunhai Wang<br>
-**VAST Challenge Workshop, VIS 2020**, 2020. [[Paper]](/papers/CA2__Cyber_Attacks_Analytics.pdf) [[Solution]](https://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%201/entries/Shandong%20University/) [[Demo]](https://vast-2020.vercel.app/#/)<br>
+**VAST Challenge Workshop, VIS 2020**, 2020. [[Paper]](https://arxiv.org/pdf/2308.06358.pdf) [[Solution]](https://visualdata.wustl.edu/varepository/VAST%20Challenge%202020/challenges/Mini-Challenge%201/entries/Shandong%20University/) [[Demo]](https://vast-2020.vercel.app/#/)<br>
 *: equal contributation
 
 ## Awards
