@@ -40,11 +40,11 @@ Yumeng Xue is a 2nd-year Ph.D. student in [Visual Computing Group](https://www.c
 
 - *RectEuler: Visualizing Intersecting Sets using Rectangles*<br>
 Patrick Paetzold, Rebecca Kehlbeck, Hendrik Strobelt, **Yumeng Xue**, Sabine Storandt, and Oliver Deussen<br>
-**Computer Graphics Forum (Proc. EuroVis 2023)**, 2023. [[Paper]](https://kops.uni-konstanz.de/server/api/core/bitstreams/29ae5fc6-ebd7-4f09-8c7f-6d75b19ada4a/content)
+**Computer Graphics Forum (Proc. EuroVis 2023)**, 2023. [[Paper]](https://kops.uni-konstanz.de/server/api/core/bitstreams/29ae5fc6-ebd7-4f09-8c7f-6d75b19ada4a/content) [[Page]](http://graphics.uni-konstanz.de/publikationen/Paetzold2023RectEuler/index.html)
 
 - *Implicit Multidimensional Projection of Local Subspaces*<br>
 Rongzheng Bian, **Yumeng Xue**, Liang Zhou, Jian Zhang, Baoquan Chen, Daniel Weiskopf, and Yunhai Wang<br>
-**IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis 2020)**, 2021. [[Paper]](https://arxiv.org/pdf/2009.03259.pdf)
+**IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis 2020)**, 2021. [[Paper]](https://arxiv.org/pdf/2009.03259.pdf) [[Page]](http://www.yunhaiwang.net/infoVis2020/SubspacePage/index.html)
 
 - *CA2: Cyber Attacks Analytics*<br>
 Luyu Cheng*, Bairui Su*, **Yumeng Xue***, Xiaoyu Liu, and Yunhai Wang<br>
