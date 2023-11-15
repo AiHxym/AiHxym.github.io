@@ -59,8 +59,9 @@ Luyu Cheng*, Bairui Su*, **Yumeng Xue***, Xiaoyu Liu, and Yunhai Wang<br>
 
 ## Services
 
-- Reviewer for IEEE VIS Conference 2023
-- Reviewer for Computational Visual Media (CVM) Conference 2021
+- Reviewer for PacificVis (Journal Track) 2024
+- Reviewer for IEEE VIS 2023
+- Reviewer for Computational Visual Media (CVM) 2021
 
 ## Teaching
 
