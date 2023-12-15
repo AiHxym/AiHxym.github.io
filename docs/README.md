@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: Yumeng Xue
-profile: /profile.jpg
+profile: /profile.jpeg
 
 socials:
   - title: github
@@ -64,7 +64,7 @@ Luyu Cheng*, Bairui Su*, **Yumeng Xue***, Xiaoyu Liu, and Yunhai Wang<br>
 - Reviewer for Computational Visual Media (CVM) 2021
 
 ## Teaching
-
+- 2023 Winter, Seminar Computer Graphics (for graduate students in Uiversity of Konstanz)
 - 2020 Fall, Teaching Assistant, Visualization (for undergraduate students in Shandong Uiversity)
 - 2019 Fall, Teaching Assistant, Computer Graphics (for undergraduate students in Shandong Uiversity)
 
