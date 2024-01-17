@@ -2,10 +2,10 @@
 ###
  # @Author: Yumeng Xue
  # @Date: 2022-05-17 16:44:49
- # @LastEditTime: 2023-07-23 22:15:47
+ # @LastEditTime: 2024-01-17 21:33:12
  # @LastEditors: Yumeng Xue
  # @Description: 
- # @FilePath: /my-homepage/deploy.sh
+ # @FilePath: /AiHxym.github.io/deploy.sh
 ### 
 
 # 确保脚本抛出遇到的错误

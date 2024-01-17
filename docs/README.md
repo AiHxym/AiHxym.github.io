@@ -36,7 +36,7 @@ Yumeng Xue is a 2nd-year Ph.D. student in [Visual Computing Group](https://www.c
 
 - *Reducing Ambiguity in Line-based Density Plots by Image-space Colorization*<br>
 **Yumeng Xue**, Patrick Paetzold, Rebecca Kehlbeck, Bin Chen, Kin Chung Kwan, Yunhai Wang, and Oliver Deussen<br>
-**IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023)**, to appear. [[Paper]](https://arxiv.org/pdf/2307.10447.pdf) [[Suppl]](https://osf.io/jm5yz/) [[Page]](/projects/pubs/reducing)
+**IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023)**, 2024. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297597) [[Suppl]](https://osf.io/jm5yz/) [[Page]](/projects/pubs/reducing)
 
 - *RectEuler: Visualizing Intersecting Sets using Rectangles*<br>
 Patrick Paetzold, Rebecca Kehlbeck, Hendrik Strobelt, **Yumeng Xue**, Sabine Storandt, and Oliver Deussen<br>
