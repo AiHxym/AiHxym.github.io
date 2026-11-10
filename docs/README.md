@@ -41,11 +41,11 @@ Yumeng Xue is a final-year Ph.D. candidate in the [Visual Computing Group](https
 
 - *Structuring Line Ensembles with Path-Integrated Fidelity and Structural Inconsistency Fields*<br>
 **Yumeng Xue**, Patrick Paetzold, Bin Chen, Yunhai Wang, Christophe Hurter, and Oliver Deussen<br>
-**IEEE Transactions on Visualization and Computer Graphics**, to appear, 2027. [[arXiv]](https://arxiv.org/abs/2607.25121)
+**IEEE Transactions on Visualization and Computer Graphics**, to appear, 2027. [[arXiv]](https://arxiv.org/abs/2607.25121) [[Page]](/projects/pubs/structuring)
 
 - *Enhancing Line Density Plots with Outlier Control and Bin-based Illumination*<br>
 **Yumeng Xue**, Bin Chen, Patrick Paetzold, Yunhai Wang, Christophe Hurter, and Oliver Deussen<br>
-**IEEE Transactions on Visualization and Computer Graphics**, vol. 32, no. 6, pp. 4785-4795, 2026. [[Paper]](https://doi.org/10.1109/TVCG.2026.3694447) [[Suppl]](https://osf.io/py5dz/files/46wct) [[arXiv]](https://arxiv.org/abs/2512.16017)
+**IEEE Transactions on Visualization and Computer Graphics**, vol. 32, no. 6, pp. 4785-4795, 2026. [[Paper]](https://doi.org/10.1109/TVCG.2026.3694447) [[Suppl]](https://osf.io/py5dz/files/46wct) [[arXiv]](https://arxiv.org/abs/2512.16017) [[Page]](/projects/pubs/enhancing)
 
 - *Demystifying UMAP Artifacts: An Interactive Study on Diagnosis and Steering Using 3D Probes*<br>
 Bin Chen, **Yumeng Xue**, Patrick Paetzold, and Oliver Deussen<br>
