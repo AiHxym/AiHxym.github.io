@@ -8,6 +8,8 @@ interests: 'Interests: Visualization, Visual Analytics, Human-Computer Interacti
 socials:
 - title: github
   link: https://github.com/AiHxym
+- title: scholar
+  link: 'https://scholar.google.com/citations?user=H_il-eoAAAAJ&hl=en'
 - title: email
   link: 'mailto:yumeng.xue@uni-konstanz.de'
 actions:

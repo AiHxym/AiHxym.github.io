@@ -9,9 +9,9 @@ socials:
   - title: github
     icon: "/icons/github.svg"
     link: https://github.com/AiHxym
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+  - title: Google Scholar
+    icon: "/icons/scholar.svg"
+    link: https://scholar.google.com/citations?user=H_il-eoAAAAJ&hl=en
 
 cv: /documents/CV.pdf
 bio: Ph.D. Candidate
