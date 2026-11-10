@@ -25,12 +25,12 @@ email: yumeng[dot]xue[at]uni-konstanz[dot]de
 Yumeng Xue is a final-year Ph.D. candidate in the [Visual Computing Group](https://www.cgmi.uni-konstanz.de/), Department of Computer and Information Science, University of Konstanz, expecting to graduate in March 2027. His supervisor is [Prof. Dr. Oliver Deussen](https://www.cgmi.uni-konstanz.de/en/persons/prof-dr-oliver-deussen/). In 2026 he was a visiting researcher at the [VIDI Lab](https://vidi.cs.ucdavis.edu/), University of California, Davis, hosted by [Prof. Kwan-Liu Ma](https://www.cs.ucdavis.edu/~ma/). He received his B.Eng. degree from [Taishan College](https://www.tsxt.sdu.edu.cn/), Shandong University in 2020, and his M.Sc. degree (with distinction) from the University of Konstanz in 2022. His research interests fall in the field of Visualization, Visual Analytics, Human-Computer Interaction, and AI-Assisted Interactive Systems.
 
 ## News
-- __[2026]__ One paper, *Structuring Line Ensembles with Path-Integrated Fidelity and Structural Inconsistency Fields*, was accepted by IEEE TVCG (to appear in 2027).
+- __[August 2026]__ One paper, *Structuring Line Ensembles with Path-Integrated Fidelity and Structural Inconsistency Fields*, was accepted by IEEE TVCG (to appear in 2027).
 - __[August 2026]__ Finished the research visit at the VIDI Lab, UC Davis.
 - __[May 2026]__ Started a research visit at the VIDI Lab, UC Davis, hosted by Prof. Kwan-Liu Ma.
-- __[2026]__ One paper was published in IEEE TVCG and one in Information Visualization.
-- __[2025]__ One paper was accepted by IEEE VIS 2025.
-- __[2024]__ One poster was presented at IEEE VIS 2024.
+- __[April 2026]__ One paper was published in IEEE TVCG and one in Information Visualization.
+- __[August 2025]__ One paper was accepted by IEEE VIS 2025.
+- __[October 2024]__ One poster was presented at IEEE VIS 2024.
 - __[July 2023]__ One paper was accepted by IEEE VIS 2023.
 - __[March 2023]__ One paper was accepted by EuroVis 2023.
 - __[April 2022]__ Completed master's degree and started working on PhD.
