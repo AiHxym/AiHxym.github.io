@@ -45,7 +45,7 @@ Yumeng Xue is a final-year Ph.D. candidate in the [Visual Computing Group](https
 
 - *Enhancing Line Density Plots with Outlier Control and Bin-based Illumination*<br>
 **Yumeng Xue**, Bin Chen, Patrick Paetzold, Yunhai Wang, Christophe Hurter, and Oliver Deussen<br>
-**IEEE Transactions on Visualization and Computer Graphics**, vol. 32, no. 6, pp. 4785-4795, 2026. [[Paper]](https://doi.org/10.1109/TVCG.2026.3694447)
+**IEEE Transactions on Visualization and Computer Graphics**, vol. 32, no. 6, pp. 4785-4795, 2026. [[Paper]](https://doi.org/10.1109/TVCG.2026.3694447) [[arXiv]](https://arxiv.org/abs/2512.16017)
 
 - *Demystifying UMAP Artifacts: An Interactive Study on Diagnosis and Steering Using 3D Probes*<br>
 Bin Chen, **Yumeng Xue**, Patrick Paetzold, and Oliver Deussen<br>
