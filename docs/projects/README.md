@@ -28,7 +28,7 @@ Here are some works of mine :books:
 
   Density plots effectively summarize large numbers of points, which would otherwise lead to severe overplotting in, for example, a scatter plot. However, when applied to line-based datasets, such as trajectories or time series, density plots alone are insufficient, as they disrupt path continuity, obscuring smooth trends and rare anomalies. We propose a bin-based illumination model that decouples structure from density to enhance flow and reveal sparse outliers while preserving the original colormap. We introduce a bin-based outlierness metric to rank trajectories. Guided by this ranking, we construct a structural normal map and apply locally-adaptive lighting in the luminance channel to highlight chosen patterns—from dominant trends to atypical paths—with acceptable color distortion. Our interactive method enables analysts to prioritize main trends, focus on outliers, or strike a balance between the two. We demonstrate our method on several real-world datasets, showing it reveals details missed by simpler alternatives, achieves significantly lower CIEDE2000 color distortion than standard shading, and supports interactive updates for up to 10,000 lines.
 
-  [[Paper](https://doi.org/10.1109/TVCG.2026.3694447)] [[arXiv](https://arxiv.org/abs/2512.16017)]
+  [[Paper](https://doi.org/10.1109/TVCG.2026.3694447)] [[Suppl](https://osf.io/py5dz/files/46wct)] [[arXiv](https://arxiv.org/abs/2512.16017)]
 
 </ProjectCard>
 
